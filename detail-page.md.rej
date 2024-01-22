@@ -1,9 +1,0 @@
-diff a/detail-page.md b/detail-page.md	(rejected hunks)
-@@ -1,3 +1,6 @@
- # 디테일 페이지
- 
--``` 이곳은 상세페이지가 보이는 곳입니다 ```
-+``` 
-+이곳은 상세피이지가
-+보이는 곳입니다 
-+```
